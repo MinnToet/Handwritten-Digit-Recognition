@@ -153,7 +153,7 @@ The following example uses the same rotated handwritten digit for all three trai
 | Input | Version 1 | Version 2 | Version 3 |
 |-------|------------|------------|------------|
 | *(Paste Input Image)* | *(Paste Screenshot)* | *(Paste Screenshot)* | *(Paste Screenshot)* |
-| Prediction | ❌ Incorrect | ✅ Correct | ✅ Correct |
+| Prediction | Incorrect |  Correct |  Correct |
 | Confidence | xx.xx% | xx.xx% | **99.xx%** |
 
 ### Observation
