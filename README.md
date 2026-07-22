@@ -202,7 +202,7 @@ Handwritten-Digit-Recognition
 Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/Handwritten-Digit-Recognition.git
+git clone https://github.com/MinnToet/Handwritten-Digit-Recognition.git
 
 cd Handwritten-Digit-Recognition
 ```
@@ -266,6 +266,6 @@ Draw a handwritten digit and click **Predict**.
 
 **Dat Tran Minh**
 
-Computer Science Student
+Artificial Intelligence Student
 
-GitHub: https://github.com/<your-username>
+GitHub: https://github.com/MinnToet
