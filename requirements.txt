@@ -1,0 +1,8 @@
+tensorflow==2.19.0
+numpy
+matplotlib
+opencv-python
+pillow
+pandas
+streamlit
+streamlit-drawable-canvas
