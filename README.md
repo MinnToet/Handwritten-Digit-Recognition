@@ -155,6 +155,7 @@ The following example uses the same rotated handwritten digit for all three trai
 | ![](prediction/img.png) | ![](results/Test%20Model/test_v1.jpg) | ![](results/Test%20Model/test_v2.jpg) | ![](results/Test%20Model/test_v3.jpg) |
 
 | Prediction | Incorrect |  Correct |  Correct |
+|-------|------------|------------|------------|
 | Confidence | 99.95% | 95.15% | **97.84%** |
 
 ### Observation
