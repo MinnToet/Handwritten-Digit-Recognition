@@ -122,7 +122,7 @@ Training configuration
 
 | Original | Version 2 | Version 3 |
 |-----------|-----------|-----------|
-| *(Paste image)* | *(Paste image)* | *(Paste image)* |
+|  |  |  |
 
 ---
 
@@ -140,9 +140,9 @@ Training configuration
 
 | Version | Metrics |
 |----------|---------|
-| V1 | *(Paste Accuracy / Precision / Recall / F1-score)* |
-| V2 | *(Paste Accuracy / Precision / Recall / F1-score)* |
-| V3 | *(Paste Accuracy / Precision / Recall / F1-score)* |
+| V1 | Accuracy: 0.9929 Precision: 0.9929 Recall: 0.9929 F1 Score: 0.9929 |
+| V2 | Accuracy: 0.9931 Precision: 0.9931 Recall: 0.9931 F1 Score: 0.9931 |
+| V3 | Accuracy: 0.9919 Precision: 0.9919 Recall: 0.9919 F1 Score: 0.9919 |
 
 ---
 
@@ -152,9 +152,10 @@ The following example uses the same rotated handwritten digit for all three trai
 
 | Input | Version 1 | Version 2 | Version 3 |
 |-------|------------|------------|------------|
-| *(Paste Input Image)* | *(Paste Screenshot)* | *(Paste Screenshot)* | *(Paste Screenshot)* |
+| ![](prediction/img.png) | ![](results/Test%20Model/test_v1.jpg) | ![](results/Test%20Model/test_v2.jpg) | ![](results/Test%20Model/test_v3.jpg) |
+
 | Prediction | Incorrect |  Correct |  Correct |
-| Confidence | xx.xx% | xx.xx% | **99.xx%** |
+| Confidence | 99.95% | 95.15% | **97.84%** |
 
 ### Observation
 
