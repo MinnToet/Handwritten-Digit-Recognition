@@ -4,5 +4,6 @@ matplotlib
 opencv-python
 pillow
 pandas
+scikit-learn
 streamlit
 streamlit-drawable-canvas
